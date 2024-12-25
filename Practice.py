@@ -1,8 +1,2 @@
-age = int(input("Enter your age"))
-if(age>=18):
-    if(age>=80):
-        print("cannot drive")
-    else:
-        print("can drive")
-else:
-    print("cannot drive")
+marks = (2,25,62,25,65,25,24,81)
+print(marks.count(25))
