@@ -1,2 +1,4 @@
-marks = (2,25,62,25,65,25,24,81)
-print(marks.count(25))
+set = {1,3,2.4,3,"hello","hello",3}
+print(type(set))
+print(set.pop())
+print(set)
