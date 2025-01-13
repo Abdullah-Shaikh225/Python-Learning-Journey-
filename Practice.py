@@ -1,4 +1,3 @@
-set = {1,3,2.4,3,"hello","hello",3}
-print(type(set))
-print(set.pop())
-print(set)
+x = int(input("enter any number"))
+for i in range(1,11):
+   print(x*i)
