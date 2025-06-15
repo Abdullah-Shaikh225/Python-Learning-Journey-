@@ -1,8 +1,8 @@
 
 --------Final Bill--------
-Bill number:8551egg             $90
-bread           $100
-chicken         $120
+Bill number:7152
+dfvdl           $8
+dgs             $90
 ------------------------
-Toatl Amount: 310
+Toatl Amount: 98
 Thank you for using bill generator
